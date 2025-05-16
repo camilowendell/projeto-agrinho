@@ -1,0 +1,34 @@
+
+body{
+    background-color: #317757;
+    color:white ;
+    font-size: 40px;
+    padding:  30px;
+}
+
+.texto-um{
+    color: #ffffff;
+    font-size: 35px;
+
+}
+
+.texto-dois{
+color: #ffffff;
+font-size: 35px;
+}
+.paragrafo{
+    font-size: 40px;
+}
+
+.rodape{
+ display: grid;
+    font-size: 18px;
+    
+}
+.imagem{
+    width: 40%;
+    width: 40%;
+}
+.imagem{
+    width: 40%;
+}s
