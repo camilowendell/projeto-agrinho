@@ -1,8 +1,8 @@
 
 body{
     background-color: #317757;
-    color:white ;
-    font-size: 40px;
+    color:rgb(241, 248, 241) ;
+    font-size: 50px;
     padding:  30px;
 }
 
@@ -22,13 +22,10 @@ font-size: 35px;
 
 .rodape{
  display: grid;
-    font-size: 18px;
+    font-size: 30px;
     
 }
 .imagem{
-    width: 40%;
-    width: 40%;
+    width: 30%;
+    width: 30%;
 }
-.imagem{
-    width: 40%;
-}s
